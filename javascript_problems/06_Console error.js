@@ -1,0 +1,1 @@
+console.error("somthing went rong on this page");
